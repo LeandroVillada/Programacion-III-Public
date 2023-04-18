@@ -22,20 +22,27 @@ namespace Trabajo_practico_2
             bool existe = false;
             foreach (ListItem n in ddlLocalidades.Items)
             {
-                if (n.Text == txtLocalidad.Text) { existe = true; }
-
+                if (n.Text.Trim().ToUpper() == txtLocalidad.Text.Trim().ToUpper()) {
+                    existe = true;
+                    break;
+                }
             }
             if (!existe)
             {
-                ddlLocalidades.Items.Add(txtLocalidad.Text);
+                ddlLocalidades.Items.Add(txtLocalidad.Text.Trim());
                 txtLocalidad.Text = "";
-
             }
         }
 
         protected void btnUsuario_Click(object sender, EventArgs e)
         {
             lblExito.Text = "Bienvenido " + txtUsuario.Text;
+        }
+
+        protected void btnInicio_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("Inicio.aspx");
+
         }
     }
 }

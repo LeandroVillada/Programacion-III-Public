@@ -1,0 +1,28 @@
+C:\Users\win10\OneDrive - frgp.utn.edu.ar\Cuarto Semestre\Programacion III\Aplicaciones de Escritorio\UNIDAD 2\TP1_Grupo_Nro_12\TrabajoPracticoN°1\bin\Debug\TrabajoPracticoN°1.exe.config
+C:\Users\win10\OneDrive - frgp.utn.edu.ar\Cuarto Semestre\Programacion III\Aplicaciones de Escritorio\UNIDAD 2\TP1_Grupo_Nro_12\TrabajoPracticoN°1\bin\Debug\TrabajoPracticoN°1.exe
+C:\Users\win10\OneDrive - frgp.utn.edu.ar\Cuarto Semestre\Programacion III\Aplicaciones de Escritorio\UNIDAD 2\TP1_Grupo_Nro_12\TrabajoPracticoN°1\bin\Debug\TrabajoPracticoN°1.pdb
+C:\Users\win10\OneDrive - frgp.utn.edu.ar\Cuarto Semestre\Programacion III\Aplicaciones de Escritorio\UNIDAD 2\TP1_Grupo_Nro_12\TrabajoPracticoN°1\obj\Debug\TrabajoPracticoN°1.csproj.AssemblyReference.cache
+C:\Users\win10\OneDrive - frgp.utn.edu.ar\Cuarto Semestre\Programacion III\Aplicaciones de Escritorio\UNIDAD 2\TP1_Grupo_Nro_12\TrabajoPracticoN°1\obj\Debug\TrabajoPracticoN°1.csproj.SuggestedBindingRedirects.cache
+C:\Users\win10\OneDrive - frgp.utn.edu.ar\Cuarto Semestre\Programacion III\Aplicaciones de Escritorio\UNIDAD 2\TP1_Grupo_Nro_12\TrabajoPracticoN°1\obj\Debug\TrabajoPracticoN_1.Form1.resources
+C:\Users\win10\OneDrive - frgp.utn.edu.ar\Cuarto Semestre\Programacion III\Aplicaciones de Escritorio\UNIDAD 2\TP1_Grupo_Nro_12\TrabajoPracticoN°1\obj\Debug\TrabajoPracticoN_1.Form2.resources
+C:\Users\win10\OneDrive - frgp.utn.edu.ar\Cuarto Semestre\Programacion III\Aplicaciones de Escritorio\UNIDAD 2\TP1_Grupo_Nro_12\TrabajoPracticoN°1\obj\Debug\TrabajoPracticoN_1.Form3.resources
+C:\Users\win10\OneDrive - frgp.utn.edu.ar\Cuarto Semestre\Programacion III\Aplicaciones de Escritorio\UNIDAD 2\TP1_Grupo_Nro_12\TrabajoPracticoN°1\obj\Debug\TrabajoPracticoN_1.Form4.resources
+C:\Users\win10\OneDrive - frgp.utn.edu.ar\Cuarto Semestre\Programacion III\Aplicaciones de Escritorio\UNIDAD 2\TP1_Grupo_Nro_12\TrabajoPracticoN°1\obj\Debug\TrabajoPracticoN_1.Properties.Resources.resources
+C:\Users\win10\OneDrive - frgp.utn.edu.ar\Cuarto Semestre\Programacion III\Aplicaciones de Escritorio\UNIDAD 2\TP1_Grupo_Nro_12\TrabajoPracticoN°1\obj\Debug\TrabajoPracticoN°1.csproj.GenerateResource.cache
+C:\Users\win10\OneDrive - frgp.utn.edu.ar\Cuarto Semestre\Programacion III\Aplicaciones de Escritorio\UNIDAD 2\TP1_Grupo_Nro_12\TrabajoPracticoN°1\obj\Debug\TrabajoPracticoN°1.csproj.CoreCompileInputs.cache
+C:\Users\win10\OneDrive - frgp.utn.edu.ar\Cuarto Semestre\Programacion III\Aplicaciones de Escritorio\UNIDAD 2\TP1_Grupo_Nro_12\TrabajoPracticoN°1\obj\Debug\TrabajoPracticoN°1.exe
+C:\Users\win10\OneDrive - frgp.utn.edu.ar\Cuarto Semestre\Programacion III\Aplicaciones de Escritorio\UNIDAD 2\TP1_Grupo_Nro_12\TrabajoPracticoN°1\obj\Debug\TrabajoPracticoN°1.pdb
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP1_Grupo_Nro_12\TrabajoPracticoN°1\bin\Debug\TrabajoPracticoN°1.exe.config
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP1_Grupo_Nro_12\TrabajoPracticoN°1\bin\Debug\TrabajoPracticoN°1.exe
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP1_Grupo_Nro_12\TrabajoPracticoN°1\bin\Debug\TrabajoPracticoN°1.pdb
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP1_Grupo_Nro_12\TrabajoPracticoN°1\obj\Debug\TrabajoPracticoN°1.csproj.AssemblyReference.cache
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP1_Grupo_Nro_12\TrabajoPracticoN°1\obj\Debug\TrabajoPracticoN°1.csproj.SuggestedBindingRedirects.cache
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP1_Grupo_Nro_12\TrabajoPracticoN°1\obj\Debug\TrabajoPracticoN_1.Form1.resources
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP1_Grupo_Nro_12\TrabajoPracticoN°1\obj\Debug\TrabajoPracticoN_1.Form2.resources
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP1_Grupo_Nro_12\TrabajoPracticoN°1\obj\Debug\TrabajoPracticoN_1.Form3.resources
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP1_Grupo_Nro_12\TrabajoPracticoN°1\obj\Debug\TrabajoPracticoN_1.Form4.resources
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP1_Grupo_Nro_12\TrabajoPracticoN°1\obj\Debug\TrabajoPracticoN_1.Properties.Resources.resources
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP1_Grupo_Nro_12\TrabajoPracticoN°1\obj\Debug\TrabajoPracticoN°1.csproj.GenerateResource.cache
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP1_Grupo_Nro_12\TrabajoPracticoN°1\obj\Debug\TrabajoPracticoN°1.csproj.CoreCompileInputs.cache
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP1_Grupo_Nro_12\TrabajoPracticoN°1\obj\Debug\TrabajoPracticoN°1.exe
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP1_Grupo_Nro_12\TrabajoPracticoN°1\obj\Debug\TrabajoPracticoN°1.pdb
