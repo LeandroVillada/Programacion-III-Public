@@ -1,0 +1,118 @@
+C:\UTNprogramacion3\trabajo_practico_4\trabajo_practico_4\bin\trabajo_practico_4.dll.config
+C:\UTNprogramacion3\trabajo_practico_4\trabajo_practico_4\bin\trabajo_practico_4.dll
+C:\UTNprogramacion3\trabajo_practico_4\trabajo_practico_4\bin\trabajo_practico_4.pdb
+C:\UTNprogramacion3\trabajo_practico_4\trabajo_practico_4\bin\roslyn\csc.exe
+C:\UTNprogramacion3\trabajo_practico_4\trabajo_practico_4\bin\roslyn\csc.exe.config
+C:\UTNprogramacion3\trabajo_practico_4\trabajo_practico_4\bin\roslyn\csc.rsp
+C:\UTNprogramacion3\trabajo_practico_4\trabajo_practico_4\bin\roslyn\csi.exe
+C:\UTNprogramacion3\trabajo_practico_4\trabajo_practico_4\bin\roslyn\csi.exe.config
+C:\UTNprogramacion3\trabajo_practico_4\trabajo_practico_4\bin\roslyn\csi.rsp
+C:\UTNprogramacion3\trabajo_practico_4\trabajo_practico_4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\UTNprogramacion3\trabajo_practico_4\trabajo_practico_4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\UTNprogramacion3\trabajo_practico_4\trabajo_practico_4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\UTNprogramacion3\trabajo_practico_4\trabajo_practico_4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\UTNprogramacion3\trabajo_practico_4\trabajo_practico_4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\UTNprogramacion3\trabajo_practico_4\trabajo_practico_4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\UTNprogramacion3\trabajo_practico_4\trabajo_practico_4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\UTNprogramacion3\trabajo_practico_4\trabajo_practico_4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\UTNprogramacion3\trabajo_practico_4\trabajo_practico_4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\UTNprogramacion3\trabajo_practico_4\trabajo_practico_4\bin\roslyn\Microsoft.Managed.Core.targets
+C:\UTNprogramacion3\trabajo_practico_4\trabajo_practico_4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\UTNprogramacion3\trabajo_practico_4\trabajo_practico_4\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\UTNprogramacion3\trabajo_practico_4\trabajo_practico_4\bin\roslyn\System.AppContext.dll
+C:\UTNprogramacion3\trabajo_practico_4\trabajo_practico_4\bin\roslyn\System.Collections.Immutable.dll
+C:\UTNprogramacion3\trabajo_practico_4\trabajo_practico_4\bin\roslyn\System.Console.dll
+C:\UTNprogramacion3\trabajo_practico_4\trabajo_practico_4\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\UTNprogramacion3\trabajo_practico_4\trabajo_practico_4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\UTNprogramacion3\trabajo_practico_4\trabajo_practico_4\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\UTNprogramacion3\trabajo_practico_4\trabajo_practico_4\bin\roslyn\System.Globalization.Calendars.dll
+C:\UTNprogramacion3\trabajo_practico_4\trabajo_practico_4\bin\roslyn\System.IO.Compression.dll
+C:\UTNprogramacion3\trabajo_practico_4\trabajo_practico_4\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\UTNprogramacion3\trabajo_practico_4\trabajo_practico_4\bin\roslyn\System.IO.FileSystem.dll
+C:\UTNprogramacion3\trabajo_practico_4\trabajo_practico_4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\UTNprogramacion3\trabajo_practico_4\trabajo_practico_4\bin\roslyn\System.Net.Http.dll
+C:\UTNprogramacion3\trabajo_practico_4\trabajo_practico_4\bin\roslyn\System.Net.Sockets.dll
+C:\UTNprogramacion3\trabajo_practico_4\trabajo_practico_4\bin\roslyn\System.Reflection.Metadata.dll
+C:\UTNprogramacion3\trabajo_practico_4\trabajo_practico_4\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\UTNprogramacion3\trabajo_practico_4\trabajo_practico_4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\UTNprogramacion3\trabajo_practico_4\trabajo_practico_4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\UTNprogramacion3\trabajo_practico_4\trabajo_practico_4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\UTNprogramacion3\trabajo_practico_4\trabajo_practico_4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\UTNprogramacion3\trabajo_practico_4\trabajo_practico_4\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\UTNprogramacion3\trabajo_practico_4\trabajo_practico_4\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\UTNprogramacion3\trabajo_practico_4\trabajo_practico_4\bin\roslyn\System.ValueTuple.dll
+C:\UTNprogramacion3\trabajo_practico_4\trabajo_practico_4\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\UTNprogramacion3\trabajo_practico_4\trabajo_practico_4\bin\roslyn\System.Xml.XmlDocument.dll
+C:\UTNprogramacion3\trabajo_practico_4\trabajo_practico_4\bin\roslyn\System.Xml.XPath.dll
+C:\UTNprogramacion3\trabajo_practico_4\trabajo_practico_4\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\UTNprogramacion3\trabajo_practico_4\trabajo_practico_4\bin\roslyn\vbc.exe
+C:\UTNprogramacion3\trabajo_practico_4\trabajo_practico_4\bin\roslyn\vbc.exe.config
+C:\UTNprogramacion3\trabajo_practico_4\trabajo_practico_4\bin\roslyn\vbc.rsp
+C:\UTNprogramacion3\trabajo_practico_4\trabajo_practico_4\bin\roslyn\VBCSCompiler.exe
+C:\UTNprogramacion3\trabajo_practico_4\trabajo_practico_4\bin\roslyn\VBCSCompiler.exe.config
+C:\UTNprogramacion3\trabajo_practico_4\trabajo_practico_4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\UTNprogramacion3\trabajo_practico_4\trabajo_practico_4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\UTNprogramacion3\trabajo_practico_4\trabajo_practico_4\obj\Debug\trabajo_practico_4.csproj.AssemblyReference.cache
+C:\UTNprogramacion3\trabajo_practico_4\trabajo_practico_4\obj\Debug\trabajo_practico_4.csproj.CoreCompileInputs.cache
+C:\UTNprogramacion3\trabajo_practico_4\trabajo_practico_4\obj\Debug\trabajo_practico_4.csproj.CopyComplete
+C:\UTNprogramacion3\trabajo_practico_4\trabajo_practico_4\obj\Debug\trabajo_practico_4.dll
+C:\UTNprogramacion3\trabajo_practico_4\trabajo_practico_4\obj\Debug\trabajo_practico_4.pdb
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP4_Grupo_Nro_12\trabajo_practico_4\bin\trabajo_practico_4.dll.config
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP4_Grupo_Nro_12\trabajo_practico_4\bin\trabajo_practico_4.dll
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP4_Grupo_Nro_12\trabajo_practico_4\bin\trabajo_practico_4.pdb
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP4_Grupo_Nro_12\trabajo_practico_4\bin\roslyn\csc.exe
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP4_Grupo_Nro_12\trabajo_practico_4\bin\roslyn\csc.exe.config
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP4_Grupo_Nro_12\trabajo_practico_4\bin\roslyn\csc.rsp
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP4_Grupo_Nro_12\trabajo_practico_4\bin\roslyn\csi.exe
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP4_Grupo_Nro_12\trabajo_practico_4\bin\roslyn\csi.exe.config
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP4_Grupo_Nro_12\trabajo_practico_4\bin\roslyn\csi.rsp
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP4_Grupo_Nro_12\trabajo_practico_4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP4_Grupo_Nro_12\trabajo_practico_4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP4_Grupo_Nro_12\trabajo_practico_4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP4_Grupo_Nro_12\trabajo_practico_4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP4_Grupo_Nro_12\trabajo_practico_4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP4_Grupo_Nro_12\trabajo_practico_4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP4_Grupo_Nro_12\trabajo_practico_4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP4_Grupo_Nro_12\trabajo_practico_4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP4_Grupo_Nro_12\trabajo_practico_4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP4_Grupo_Nro_12\trabajo_practico_4\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP4_Grupo_Nro_12\trabajo_practico_4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP4_Grupo_Nro_12\trabajo_practico_4\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP4_Grupo_Nro_12\trabajo_practico_4\bin\roslyn\System.AppContext.dll
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP4_Grupo_Nro_12\trabajo_practico_4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP4_Grupo_Nro_12\trabajo_practico_4\bin\roslyn\System.Console.dll
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP4_Grupo_Nro_12\trabajo_practico_4\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP4_Grupo_Nro_12\trabajo_practico_4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP4_Grupo_Nro_12\trabajo_practico_4\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP4_Grupo_Nro_12\trabajo_practico_4\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP4_Grupo_Nro_12\trabajo_practico_4\bin\roslyn\System.IO.Compression.dll
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP4_Grupo_Nro_12\trabajo_practico_4\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP4_Grupo_Nro_12\trabajo_practico_4\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP4_Grupo_Nro_12\trabajo_practico_4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP4_Grupo_Nro_12\trabajo_practico_4\bin\roslyn\System.Net.Http.dll
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP4_Grupo_Nro_12\trabajo_practico_4\bin\roslyn\System.Net.Sockets.dll
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP4_Grupo_Nro_12\trabajo_practico_4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP4_Grupo_Nro_12\trabajo_practico_4\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP4_Grupo_Nro_12\trabajo_practico_4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP4_Grupo_Nro_12\trabajo_practico_4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP4_Grupo_Nro_12\trabajo_practico_4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP4_Grupo_Nro_12\trabajo_practico_4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP4_Grupo_Nro_12\trabajo_practico_4\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP4_Grupo_Nro_12\trabajo_practico_4\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP4_Grupo_Nro_12\trabajo_practico_4\bin\roslyn\System.ValueTuple.dll
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP4_Grupo_Nro_12\trabajo_practico_4\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP4_Grupo_Nro_12\trabajo_practico_4\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP4_Grupo_Nro_12\trabajo_practico_4\bin\roslyn\System.Xml.XPath.dll
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP4_Grupo_Nro_12\trabajo_practico_4\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP4_Grupo_Nro_12\trabajo_practico_4\bin\roslyn\vbc.exe
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP4_Grupo_Nro_12\trabajo_practico_4\bin\roslyn\vbc.exe.config
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP4_Grupo_Nro_12\trabajo_practico_4\bin\roslyn\vbc.rsp
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP4_Grupo_Nro_12\trabajo_practico_4\bin\roslyn\VBCSCompiler.exe
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP4_Grupo_Nro_12\trabajo_practico_4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP4_Grupo_Nro_12\trabajo_practico_4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP4_Grupo_Nro_12\trabajo_practico_4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP4_Grupo_Nro_12\trabajo_practico_4\obj\Debug\trabajo_practico_4.csproj.AssemblyReference.cache
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP4_Grupo_Nro_12\trabajo_practico_4\obj\Debug\trabajo_practico_4.csproj.CoreCompileInputs.cache
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP4_Grupo_Nro_12\trabajo_practico_4\obj\Debug\trabajo_practico_4.csproj.CopyComplete
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP4_Grupo_Nro_12\trabajo_practico_4\obj\Debug\trabajo_practico_4.dll
+C:\Users\win10\Documents\Repositorio GitHub\Programacion-III-Public\TP4_Grupo_Nro_12\trabajo_practico_4\obj\Debug\trabajo_practico_4.pdb
